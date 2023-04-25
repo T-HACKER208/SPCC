@@ -1,0 +1,8 @@
+ while((c=fgetc(f1))!= EOF){
+      putchar(c);
+     
+}printf("\n");
+ while((d=fgetc(f3))!= EOF){
+      putchar(d);
+      
+ } printf("\n");
